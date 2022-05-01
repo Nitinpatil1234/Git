@@ -12,6 +12,7 @@ public class Test {
 	}
 	else {
 		System.out.println("Test case passed");
+		System.out.println("GIT success");
 	}
 	}
 }
