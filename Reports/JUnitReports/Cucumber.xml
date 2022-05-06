@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="9" time="53.492">
+    <testcase classname="Test the Login Functionality of OrangeHRM using datatable" name="Validate Login Function using datatable" time="25.096">
+        <system-out><![CDATA[Given user on login page....................................................passed
+When user enter credentails using datatable.................................passed
+And click on login button...................................................passed
+Then login should land on home page.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Test the Login Functionality of OrangeHRM" name="Validate Login Function" time="15.399">
+        <system-out><![CDATA[Given user on login page....................................................passed
+When user enter admin and admin123..........................................passed
+And click on login button...................................................passed
+Then login should land on home page.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Test the Login Functionality of OrangeHRM" name="Validate Login Function 2" time="12.795">
+        <system-out><![CDATA[Given user on login page....................................................passed
+When user enter admin and admin1234.........................................passed
+And click on login button...................................................passed
+Then login should land on home page.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="using of tags in cucumber" name="Scenario1" time="0">
+        <system-out><![CDATA[Given This is Scenario1.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="using of tags in cucumber" name="Scenario2" time="0">
+        <system-out><![CDATA[Given This is Scenario2.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="using of tags in cucumber" name="Scenario3" time="0">
+        <system-out><![CDATA[Given This is Scenario3.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="using of tags in cucumber" name="Scenario4" time="0">
+        <system-out><![CDATA[Given This is Scenario4.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="using of tags in cucumber" name="Scenario5" time="0.015">
+        <system-out><![CDATA[Given This is Scenario5.....................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="using of tags in cucumber" name="Scenario6" time="0">
+        <system-out><![CDATA[Given This is Scenario6.....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
